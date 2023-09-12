@@ -7,5 +7,6 @@ public class Teste : MonoBehaviour
     {
         print("Mensgem do Happy");
         print("Mensagem do Ihosse");
+        print("Outra mensagem do Ihosse");
     }
 }
